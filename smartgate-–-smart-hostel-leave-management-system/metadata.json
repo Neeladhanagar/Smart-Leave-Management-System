@@ -1,0 +1,6 @@
+{
+  "name": "SmartGate – Smart Hostel Leave Management System",
+  "description": "Smart Hostel Leave Management System with multi-stage workflows, conditional HOD routing, QR pass generator, security QR scanner, and digital gate tracking.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
